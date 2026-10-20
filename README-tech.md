@@ -1,4 +1,4 @@
-# perform-front — Referência Técnica
+# artemis-front — Referência Técnica
 
 Detalhes de implementação, decisões de arquitetura e padrões usados no frontend.
 

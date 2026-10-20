@@ -77,7 +77,7 @@ src/ui/
 │   ├── AuthContext.tsx        # JWT, login/logout
 │   └── DashboardContext.tsx   # Dados globais (squads, devs)
 ├── services/
-│   └── api.service.ts         # Todas as chamadas à perform-api
+│   └── api.service.ts         # Todas as chamadas à artemis-api
 ├── stores/
 │   └── uiStore.ts             # Estado da UI (sidebar, tema)
 └── types/
