@@ -15,7 +15,7 @@ import { ArtemisLogo, StarField } from "@/ui/components/cosmic";
 
 const WINDOWS_URL =
   import.meta.env.VITE_DOWNLOAD_URL ??
-  "https://github.com/mateuscastro5/perform-front/releases/latest/download/Artemis-setup.exe";
+  "https://github.com/mateuscastro5/artemis-front/releases/latest/download/Artemis-setup.exe";
 
 type Platform = {
   id: string;

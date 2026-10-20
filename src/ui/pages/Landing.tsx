@@ -173,7 +173,7 @@ const Landing = () => {
               How we do it
             </Link>
             <a
-              href="https://github.com/mateuscastro5/perform-front"
+              href="https://github.com/mateuscastro5/artemis-front"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"
@@ -561,7 +561,7 @@ const Landing = () => {
               Download
             </Link>
             <a
-              href="https://github.com/mateuscastro5/perform-front"
+              href="https://github.com/mateuscastro5/artemis-front"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-1.5 transition-colors hover:text-foreground"
